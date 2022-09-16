@@ -1,4 +1,4 @@
-import { sum } from './math.js';
+import { sum } from 'https://raw.githubusercontent.com/prohazko2/test-esm/main/math.js';
 
 export function inc(a) {
   return sum(a, 1);
